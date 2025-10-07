@@ -1,0 +1,12 @@
+---
+title: "Welcome to BCG Tech Store"
+---
+
+# BCG Tech Store
+
+Welcome to **BCG Tech Store**, your trusted source for the latest **phones and accessories**.
+
+We sell **iPhones, Samsung phones, and premium gadgets** at unbeatable prices.\
+Click on **Products** above to start shopping.
+
+![](images/sumsung.jpg) ![](images/iphone_13_PNG33.png)

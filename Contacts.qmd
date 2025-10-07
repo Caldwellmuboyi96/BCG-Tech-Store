@@ -1,0 +1,14 @@
+---
+title: "Contacts"
+format: html
+---
+
+# 📞 Contact Us
+
+📍 **Location:** Harare, Zimbabwe\
+📞 **Phone:** +263 718 834 476\
+✉️ **Email:** caldwellmuboyi96\@gmail.com\
+🔗 **Facebook:** [BCG Tech Store](https://facebook.com)
+
+💬 For instant shopping, message us directly on\
+[WhatsApp](https://wa.me/263718834476?text=Hello%20I%20am%20interested%20in%20your%20products){.btn .btn-success target="_blank"}

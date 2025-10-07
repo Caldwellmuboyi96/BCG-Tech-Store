@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs     # ✅ exactly 2 spaces from the left
+
+website:
+  title: "BCG Tech Store"
+  navbar:
+    background: "#002855"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Products
+        href: products.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
